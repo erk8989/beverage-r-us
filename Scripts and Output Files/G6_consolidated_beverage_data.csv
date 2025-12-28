@@ -1,0 +1,236 @@
+Product,Weight,Volume,Caffeine,Per_Unit_Price,Quantity,Volume_Quantity,Weight_Quantity,Revenue_Quantity,Region,State,Country,Category_Name,First_Name,Last_Name,Order_Year
+"Moonbeam Brew",394,361,124,655,74,26714,29156,48470,South,Maryland,USA,"Iced Teas",Remi,Olson,2021
+"Enchanted Euphoria",303,284,83,364,53,15052,16059,19292,South,Kentucky,USA,Mocktails,Buford,Jackson,2021
+Sapped,632,374,NULL,932,33,12342,20856,30756,Northeast,Massachusetts,USA,"Maple Drinks",Buford,Jackson,2021
+"Dreamy Droplets",330,356,106,347,23,8188,7590,7981,South,Florida,USA,"Soft Drinks",Buford,Jackson,2021
+Sapped,632,374,NULL,932,37,13838,23384,34484,Northeast,Vermont,USA,"Maple Drinks",Buford,Jackson,2021
+"Maple Mash UP",794,502,NULL,1098,27,13554,21438,29646,Northeast,"Rhode Island",USA,"Maple Drinks",Buford,Jackson,2021
+"Electric Elixir",406,374,120,367,6,2244,2436,2202,Midwest,Michigan,USA,"Hot Beverages",Remi,Olson,2021
+"Berry Blush",276,281,122,622,32,8992,8832,19904,Northeast,Massachusetts,USA,"Vitamin Drinks",Remi,Olson,2021
+"Dreamy Droplets",330,356,106,347,14,4984,4620,4858,West,California,USA,"Soft Drinks",Buford,Jackson,2021
+"Moonbeam Brew",394,361,124,655,26,9386,10244,17030,Northeast,Massachusetts,USA,"Iced Teas",Remi,Olson,2021
+"Maple Mash UP",794,502,NULL,1098,36,18072,28584,39528,Northeast,Maine,USA,"Maple Drinks",Buford,Jackson,2021
+"Dreamy Droplets",330,356,106,347,48,17088,15840,16656,Midwest,Nebraska,USA,"Soft Drinks",Buford,Jackson,2021
+"Frosty Fizz",314,434,7,717,97,42098,30458,69549,Northeast,"Rhode Island",USA,Juices,Rowan,Walsh,2021
+"Maple Mash UP",794,502,NULL,1098,75,37650,59550,82350,Northeast,"New Hampshire",USA,"Maple Drinks",Buford,Jackson,2021
+"Electric Elixir",406,374,120,367,60,22440,24360,22020,South,Alabama,USA,"Hot Beverages",Remi,Olson,2021
+"Blissful Bubbles",342,479,40,355,7,3353,2394,2485,West,Oregon,USA,Smoothies,Remi,Olson,2021
+"Blissful Bubbles",342,479,40,355,36,17244,12312,12780,South,"West Virginia",USA,Smoothies,Remi,Olson,2021
+"Frosty Fizz",314,434,7,717,28,12152,8792,20076,Midwest,"North Dakota",USA,Juices,Rowan,Walsh,2021
+"Berry Blush",276,281,122,622,28,7868,7728,17416,Northeast,Connecticut,USA,"Vitamin Drinks",Remi,Olson,2021
+"Berry Blush",276,281,122,622,43,12083,11868,26746,South,Maryland,USA,"Vitamin Drinks",Remi,Olson,2021
+"Dreamy Droplets",330,356,106,347,45,16020,14850,15615,Midwest,Illinois,USA,"Soft Drinks",Buford,Jackson,2021
+"Luminous Liquid",238,227,6,364,45,10215,10710,16380,South,Florida,USA,"Vitamin Drinks",Remi,Olson,2021
+"Enchanted Euphoria",303,284,83,364,73,20732,22119,26572,West,Oregon,USA,Mocktails,Buford,Jackson,2021
+"Moonbeam Brew",394,361,124,655,55,19855,21670,36025,Northeast,"New Jersey",USA,"Iced Teas",Remi,Olson,2021
+"Luminous Liquid",238,227,6,364,99,22473,23562,36036,South,Texas,USA,"Vitamin Drinks",Remi,Olson,2021
+"Enchanted Euphoria",303,284,83,364,48,13632,14544,17472,South,Louisiana,USA,Mocktails,Buford,Jackson,2021
+"Secret Synergy",312,479,40,523,51,24429,15912,26673,South,Mississippi,USA,Mocktails,Buford,Jackson,2021
+"Citrus Sizzle",368,267,39,457,29,7743,10672,13253,West,Utah,USA,"Vitamin Drinks",Remi,Olson,2021
+"Luminous Liquid",238,227,6,364,94,21338,22372,34216,South,Oklahoma,USA,"Vitamin Drinks",Remi,Olson,2021
+"Maple Mash UP",794,502,NULL,1098,65,32630,51610,71370,Northeast,Massachusetts,USA,"Maple Drinks",Buford,Jackson,2021
+"Sparkle Splash",267,492,111,311,91,44772,24297,28301,Midwest,Wisconsin,USA,"Soft Drinks",Buford,Jackson,2021
+"Enchanted Euphoria",303,284,83,364,73,20732,22119,26572,Northeast,Vermont,USA,Mocktails,Buford,Jackson,2021
+"Secret Synergy",312,479,40,523,22,10538,6864,11506,West,California,USA,Mocktails,Buford,Jackson,2021
+"Moonbeam Brew",394,361,124,655,31,11191,12214,20305,Midwest,"South Dakota",USA,"Iced Teas",Remi,Olson,2021
+Sapped,632,374,NULL,932,33,12342,20856,30756,Northeast,"New Hampshire",USA,"Maple Drinks",Buford,Jackson,2021
+"Moonbeam Brew",394,361,124,655,30,10830,11820,19650,Midwest,Kansas,USA,"Iced Teas",Remi,Olson,2021
+"Dreamy Droplets",330,356,106,347,38,13528,12540,13186,South,Kentucky,USA,"Soft Drinks",Buford,Jackson,2021
+"Berry Blush",276,281,122,622,77,21637,21252,47894,Midwest,Indiana,USA,"Vitamin Drinks",Remi,Olson,2021
+"Maple Mash UP",794,502,NULL,1098,79,39658,62726,86742,Northeast,Vermont,USA,"Maple Drinks",Buford,Jackson,2021
+"Maple Mash UP",794,502,NULL,1098,52,26104,41288,57096,Northeast,Massachusetts,USA,"Maple Drinks",Buford,Jackson,2021
+"Enchanted Euphoria",303,284,83,364,85,24140,25755,30940,South,Louisiana,USA,Mocktails,Buford,Jackson,2021
+"Maple Mash UP",794,502,NULL,1098,55,27610,43670,60390,Northeast,"Rhode Island",USA,"Maple Drinks",Buford,Jackson,2021
+"Luminous Liquid",238,227,6,364,34,7718,8092,12376,South,"South Carolina",USA,"Vitamin Drinks",Remi,Olson,2021
+"Moonbeam Brew",394,361,124,655,69,24909,27186,45195,South,Texas,USA,"Iced Teas",Remi,Olson,2021
+Sapped,632,374,NULL,932,46,17204,29072,42872,Northeast,"Rhode Island",USA,"Maple Drinks",Buford,Jackson,2021
+"Mystic Mist",419,379,129,870,7,2653,2933,6090,South,Maryland,USA,"Iced Teas",Remi,Olson,2022
+"Luminous Liquid",238,227,6,364,85,19295,20230,30940,Midwest,Michigan,USA,"Vitamin Drinks",Remi,Olson,2022
+"Secret Synergy",312,479,40,523,48,22992,14976,25104,Midwest,Missouri,USA,Mocktails,Buford,Jackson,2022
+"Eggs Benedict Expresso",288,204,204,834,93,18972,26784,77562,Midwest,Indiana,USA,"Hot Beverages",Remi,Olson,2022
+"Secret Synergy",312,479,40,523,11,5269,3432,5753,South,Arkansas,USA,Mocktails,Buford,Jackson,2022
+"Frosty Fizz",314,434,7,717,31,13454,9734,22227,South,Maryland,USA,Juices,Rowan,Walsh,2022
+"Citrus Sizzle",368,267,39,457,62,16554,22816,28334,Midwest,Ohio,USA,"Vitamin Drinks",Remi,Olson,2022
+"Sparkle Splash",267,492,111,311,45,22140,12015,13995,Midwest,Ohio,USA,"Soft Drinks",Buford,Jackson,2022
+"Eggs Benedict Expresso",288,204,204,834,93,18972,26784,77562,West,Utah,USA,"Hot Beverages",Remi,Olson,2022
+"Pecan Pie Latte",354,358,155,496,107,38306,37878,53072,Northeast,Maine,USA,"Hot Beverages",Remi,Olson,2022
+"Pancake Flip Frappe",486,371,27,477,16,5936,7776,7632,South,Louisiana,USA,Smoothies,Remi,Olson,2022
+"Pecan Pie Latte",354,358,155,496,85,30430,30090,42160,Northeast,"Rhode Island",USA,"Hot Beverages",Remi,Olson,2022
+"Frosted Flare",286,407,16,559,91,37037,26026,50869,Northeast,"New Jersey",USA,"Soft Drinks",Buford,Jackson,2022
+"Berry Blush",276,281,122,622,25,7025,6900,15550,South,"North Carolina",USA,"Vitamin Drinks",Remi,Olson,2022
+"Mystic Mist",419,379,129,870,31,11749,12989,26970,West,Idaho,USA,"Iced Teas",Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,38,18202,12996,13490,South,"North Carolina",USA,Smoothies,Remi,Olson,2022
+"Mystic Mist",419,379,129,870,99,37521,41481,86130,Northeast,"New Jersey",USA,"Iced Teas",Remi,Olson,2022
+"Electric Elixir",406,374,120,367,4,1496,1624,1468,South,"West Virginia",USA,"Hot Beverages",Remi,Olson,2022
+"Sparkle Splash",267,492,111,311,74,36408,19758,23014,Midwest,Ohio,USA,"Soft Drinks",Buford,Jackson,2022
+"Frosted Flare",286,407,16,559,20,8140,5720,11180,Midwest,Minnesota,USA,"Soft Drinks",Buford,Jackson,2022
+"Blissful Bubbles",342,479,40,355,44,21076,15048,15620,West,Idaho,USA,Smoothies,Remi,Olson,2022
+"Secret Synergy",312,479,40,523,92,44068,28704,48116,Midwest,Kansas,USA,Mocktails,Buford,Jackson,2022
+"Sparkle Splash",267,492,111,311,50,24600,13350,15550,West,Utah,USA,"Soft Drinks",Buford,Jackson,2022
+"Pecan Pie Latte",354,358,155,496,46,16468,16284,22816,West,Oregon,USA,"Hot Beverages",Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,71,34009,24282,25205,South,Maryland,USA,Smoothies,Remi,Olson,2022
+"Citrus Sizzle",368,267,39,457,21,5607,7728,9597,South,Georgia,USA,"Vitamin Drinks",Remi,Olson,2022
+"Luminous Liquid",238,227,6,364,96,21792,22848,34944,Northeast,Vermont,USA,"Vitamin Drinks",Remi,Olson,2022
+"Mystic Mist",419,379,129,870,47,17813,19693,40890,South,"North Carolina",USA,"Iced Teas",Remi,Olson,2022
+"Frosted Flare",286,407,16,559,1,407,286,559,South,"South Carolina",USA,"Soft Drinks",Buford,Jackson,2022
+"Luminous Liquid",238,227,6,364,54,12258,12852,19656,Midwest,Kansas,USA,"Vitamin Drinks",Remi,Olson,2022
+"Sparkle Splash",267,492,111,311,71,34932,18957,22081,West,Wyoming,USA,"Soft Drinks",Buford,Jackson,2022
+"Enchanted Euphoria",303,284,83,364,77,21868,23331,28028,South,Louisiana,USA,Mocktails,Buford,Jackson,2022
+"Pecan Pie Latte",354,358,155,496,60,21480,21240,29760,Midwest,Kansas,USA,"Hot Beverages",Remi,Olson,2022
+"Dreamy Droplets",330,356,106,347,35,12460,11550,12145,South,Alabama,USA,"Soft Drinks",Buford,Jackson,2022
+"Mystic Mist",419,379,129,870,49,18571,20531,42630,Midwest,"North Dakota",USA,"Iced Teas",Remi,Olson,2022
+"Sparkle Splash",267,492,111,311,27,13284,7209,8397,West,Alaska,USA,"Soft Drinks",Buford,Jackson,2022
+"Blissful Bubbles",342,479,40,355,70,33530,23940,24850,Northeast,Massachusetts,USA,Smoothies,Remi,Olson,2022
+"Electric Elixir",406,374,120,367,9,3366,3654,3303,South,"North Carolina",USA,"Hot Beverages",Remi,Olson,2022
+"Sparkle Splash",267,492,111,311,83,40836,22161,25813,South,Mississippi,USA,"Soft Drinks",Buford,Jackson,2022
+"Pancake Flip Frappe",486,371,27,477,8,2968,3888,3816,Midwest,Nebraska,USA,Smoothies,Remi,Olson,2022
+"Citrus Sizzle",368,267,39,457,29,7743,10672,13253,Northeast,"New york",USA,"Vitamin Drinks",Remi,Olson,2022
+"Citrus Sizzle",368,267,39,457,76,20292,27968,34732,Midwest,Wisconsin,USA,"Vitamin Drinks",Remi,Olson,2022
+"Pancake Flip Frappe",486,371,27,477,79,29309,38394,37683,South,Arkansas,USA,Smoothies,Remi,Olson,2022
+"Luminous Liquid",238,227,6,364,37,8399,8806,13468,Northeast,Maine,USA,"Vitamin Drinks",Remi,Olson,2022
+"Moonbeam Brew",394,361,124,655,14,5054,5516,9170,South,Louisiana,USA,"Iced Teas",Remi,Olson,2022
+"Sparkle Splash",267,492,111,311,62,30504,16554,19282,Northeast,"New Jersey",USA,"Soft Drinks",Buford,Jackson,2022
+"Luminous Liquid",238,227,6,364,25,5675,5950,9100,West,Hawaii,USA,"Vitamin Drinks",Remi,Olson,2022
+"Berry Blush",276,281,122,622,3,843,828,1866,Midwest,"North Dakota",USA,"Vitamin Drinks",Remi,Olson,2022
+"Sparkle Splash",267,492,111,311,66,32472,17622,20526,Northeast,Connecticut,USA,"Soft Drinks",Buford,Jackson,2022
+"Enchanted Euphoria",303,284,83,364,60,17040,18180,21840,South,"South Carolina",USA,Mocktails,Buford,Jackson,2022
+"Luminous Liquid",238,227,6,364,67,15209,15946,24388,Midwest,Iowa,USA,"Vitamin Drinks",Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,90,43110,30780,31950,Midwest,Kansas,USA,Smoothies,Remi,Olson,2022
+"Mystic Mist",419,379,129,870,51,19329,21369,44370,West,Montana,USA,"Iced Teas",Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,11,5269,3762,3905,Northeast,Maine,USA,Smoothies,Remi,Olson,2022
+"Citrus Sizzle",368,267,39,457,12,3204,4416,5484,Northeast,"New Hampshire",USA,"Vitamin Drinks",Remi,Olson,2022
+"Mystic Mist",419,379,129,870,31,11749,12989,26970,Midwest,Illinois,USA,"Iced Teas",Remi,Olson,2022
+"Sparkle Splash",267,492,111,311,70,34440,18690,21770,Midwest,Minnesota,USA,"Soft Drinks",Buford,Jackson,2022
+"Blissful Bubbles",342,479,40,355,23,11017,7866,8165,Midwest,Missouri,USA,Smoothies,Remi,Olson,2022
+"Enchanted Euphoria",303,284,83,364,84,23856,25452,30576,West,Washington,USA,Mocktails,Buford,Jackson,2022
+"Secret Synergy",312,479,40,523,93,44547,29016,48639,South,Alabama,USA,Mocktails,Buford,Jackson,2022
+"Pecan Pie Latte",354,358,155,496,41,14678,14514,20336,Midwest,Michigan,USA,"Hot Beverages",Remi,Olson,2022
+"Frosted Flare",286,407,16,559,10,4070,2860,5590,West,Arizona,USA,"Soft Drinks",Buford,Jackson,2022
+"Citrus Sizzle",368,267,39,457,98,26166,36064,44786,West,Oregon,USA,"Vitamin Drinks",Remi,Olson,2022
+"Frosty Fizz",314,434,7,717,44,19096,13816,31548,South,Florida,USA,Juices,Rowan,Walsh,2022
+"Frosted Flare",286,407,16,559,58,23606,16588,32422,South,Texas,USA,"Soft Drinks",Buford,Jackson,2022
+"Secret Synergy",312,479,40,523,62,29698,19344,32426,Northeast,Vermont,USA,Mocktails,Buford,Jackson,2022
+"Secret Synergy",312,479,40,523,33,15807,10296,17259,Midwest,Iowa,USA,Mocktails,Buford,Jackson,2022
+"Secret Synergy",312,479,40,523,27,12933,8424,14121,South,Louisiana,USA,Mocktails,Buford,Jackson,2022
+"Berry Blush",276,281,122,622,13,3653,3588,8086,Midwest,Missouri,USA,"Vitamin Drinks",Remi,Olson,2022
+"Pancake Flip Frappe",486,371,27,477,3,1113,1458,1431,Northeast,Connecticut,USA,Smoothies,Remi,Olson,2022
+"Electric Elixir",406,374,120,367,1,374,406,367,West,"New Mexico",USA,"Hot Beverages",Remi,Olson,2022
+"Pecan Pie Latte",354,358,155,496,68,24344,24072,33728,Northeast,"New york",USA,"Hot Beverages",Remi,Olson,2022
+"Eggs Benedict Expresso",288,204,204,834,37,7548,10656,30858,Midwest,Ohio,USA,"Hot Beverages",Remi,Olson,2022
+"Mystic Mist",419,379,129,870,0,0,0,0,Midwest,"North Dakota",USA,"Iced Teas",Remi,Olson,2022
+"Mystic Mist",419,379,129,870,57,21603,23883,49590,South,Georgia,USA,"Iced Teas",Remi,Olson,2022
+"Citrus Sizzle",368,267,39,457,52,13884,19136,23764,South,Virginia,USA,"Vitamin Drinks",Remi,Olson,2022
+"Citrus Sizzle",368,267,39,457,38,10146,13984,17366,Midwest,Nebraska,USA,"Vitamin Drinks",Remi,Olson,2022
+"Frosted Flare",286,407,16,559,13,5291,3718,7267,South,"North Carolina",USA,"Soft Drinks",Buford,Jackson,2022
+"Electric Elixir",406,374,120,367,75,28050,30450,27525,Midwest,Indiana,USA,"Hot Beverages",Remi,Olson,2022
+"Eggs Benedict Expresso",288,204,204,834,99,20196,28512,82566,South,Virginia,USA,"Hot Beverages",Remi,Olson,2022
+"Enchanted Euphoria",303,284,83,364,98,27832,29694,35672,South,Maryland,USA,Mocktails,Buford,Jackson,2022
+"Sparkle Splash",267,492,111,311,70,34440,18690,21770,Northeast,"New Jersey",USA,"Soft Drinks",Buford,Jackson,2022
+"Enchanted Euphoria",303,284,83,364,2,568,606,728,South,Kentucky,USA,Mocktails,Buford,Jackson,2022
+"Citrus Sizzle",368,267,39,457,33,8811,12144,15081,Midwest,Illinois,USA,"Vitamin Drinks",Remi,Olson,2022
+"Berry Blush",276,281,122,622,55,15455,15180,34210,South,Virginia,USA,"Vitamin Drinks",Remi,Olson,2022
+"Frosty Fizz",314,434,7,717,46,19964,14444,32982,South,"South Carolina",USA,Juices,Rowan,Walsh,2022
+"Secret Synergy",312,479,40,523,85,40715,26520,44455,South,"North Carolina",USA,Mocktails,Buford,Jackson,2022
+"Eggs Benedict Expresso",288,204,204,834,50,10200,14400,41700,South,Oklahoma,USA,"Hot Beverages",Remi,Olson,2022
+"Electric Elixir",406,374,120,367,31,11594,12586,11377,South,Alabama,USA,"Hot Beverages",Remi,Olson,2022
+"Berry Blush",276,281,122,622,48,13488,13248,29856,West,Arizona,USA,"Vitamin Drinks",Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,49,23471,16758,17395,Midwest,Indiana,USA,Smoothies,Remi,Olson,2022
+"Mystic Mist",419,379,129,870,14,5306,5866,12180,Northeast,Maine,USA,"Iced Teas",Remi,Olson,2022
+"Citrus Sizzle",368,267,39,457,26,6942,9568,11882,Northeast,Maine,USA,"Vitamin Drinks",Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,57,27303,19494,20235,Midwest,Iowa,USA,Smoothies,Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,5,2395,1710,1775,South,Kentucky,USA,Smoothies,Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,80,38320,27360,28400,South,Maryland,USA,Smoothies,Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,17,8143,5814,6035,Midwest,Wisconsin,USA,Smoothies,Remi,Olson,2022
+"Enchanted Euphoria",303,284,83,364,51,14484,15453,18564,South,Arkansas,USA,Mocktails,Buford,Jackson,2022
+"Enchanted Euphoria",303,284,83,364,61,17324,18483,22204,South,"South Carolina",USA,Mocktails,Buford,Jackson,2022
+"Berry Blush",276,281,122,622,49,13769,13524,30478,Northeast,Maine,USA,"Vitamin Drinks",Remi,Olson,2022
+"Dreamy Droplets",330,356,106,347,61,21716,20130,21167,Midwest,Illinois,USA,"Soft Drinks",Buford,Jackson,2022
+"Dreamy Droplets",330,356,106,347,64,22784,21120,22208,West,Hawaii,USA,"Soft Drinks",Buford,Jackson,2022
+"Frosted Flare",286,407,16,559,67,27269,19162,37453,West,Colorado,USA,"Soft Drinks",Buford,Jackson,2022
+"Blissful Bubbles",342,479,40,355,12,5748,4104,4260,Midwest,Indiana,USA,Smoothies,Remi,Olson,2022
+"Frosty Fizz",314,434,7,717,13,5642,4082,9321,South,"West Virginia",USA,Juices,Rowan,Walsh,2022
+"Sparkle Splash",267,492,111,311,99,48708,26433,30789,South,"North Carolina",USA,"Soft Drinks",Buford,Jackson,2022
+"Citrus Sizzle",368,267,39,457,11,2937,4048,5027,West,"New Mexico",USA,"Vitamin Drinks",Remi,Olson,2022
+"Enchanted Euphoria",303,284,83,364,84,23856,25452,30576,South,"North Carolina",USA,Mocktails,Buford,Jackson,2022
+"Pecan Pie Latte",354,358,155,496,73,26134,25842,36208,West,Wyoming,USA,"Hot Beverages",Remi,Olson,2022
+"Citrus Sizzle",368,267,39,457,13,3471,4784,5941,Midwest,"North Dakota",USA,"Vitamin Drinks",Remi,Olson,2022
+"Blissful Bubbles",342,479,40,355,81,38799,27702,28755,South,Louisiana,USA,Smoothies,Remi,Olson,2022
+"Moonbeam Brew",394,361,124,655,93,33573,36642,60915,South,Texas,USA,"Iced Teas",Remi,Olson,2022
+"Frosty Fizz",314,434,7,717,18,7812,5652,12906,Northeast,Maine,USA,Juices,Rowan,Walsh,2022
+"Frosty Fizz",314,434,7,717,52,22568,16328,37284,South,"North Carolina",USA,Juices,Rowan,Walsh,2022
+"Eggs Benedict Expresso",288,204,204,834,8,1632,2304,6672,West,Idaho,USA,"Hot Beverages",Remi,Olson,2022
+"Berry Blush",276,281,122,622,68,19108,18768,42296,South,Louisiana,USA,"Vitamin Drinks",Remi,Olson,2022
+"Berry Blush",276,281,122,622,11,3091,3036,6842,West,Idaho,USA,"Vitamin Drinks",Remi,Olson,2022
+"Dreamy Droplets",330,356,106,347,14,4984,4620,4858,West,"New Mexico",USA,"Soft Drinks",Buford,Jackson,2022
+"Frosty Fizz",314,434,7,717,7,3038,2198,5019,South,Kentucky,USA,Juices,Rowan,Walsh,2022
+"Pecan Pie Latte",354,358,155,496,57,20406,20178,28272,South,Delaware,USA,"Hot Beverages",Remi,Olson,2022
+"Electric Elixir",406,374,120,367,74,27676,30044,27158,South,Delaware,USA,"Hot Beverages",Remi,Olson,2022
+"Berry Blush",276,281,122,622,95,26695,26220,59090,South,Louisiana,USA,"Vitamin Drinks",Remi,Olson,2023
+"Frosted Flare",286,407,16,559,44,17908,12584,24596,South,Florida,USA,"Soft Drinks",Buford,Jackson,2023
+"Sparkle Splash",267,492,111,311,87,42804,23229,27057,Northeast,Maine,USA,"Soft Drinks",Buford,Jackson,2023
+"Berry Blush",276,281,122,622,64,17984,17664,39808,West,Montana,USA,"Vitamin Drinks",Remi,Olson,2023
+"Frosty Fizz",314,434,7,717,86,37324,27004,61662,South,Alabama,USA,Juices,Rowan,Walsh,2023
+"Sparkle Splash",267,492,111,311,37,18204,9879,11507,West,Alaska,USA,"Soft Drinks",Buford,Jackson,2023
+"Blissful Bubbles",342,479,40,355,97,46463,33174,34435,Midwest,Minnesota,USA,Smoothies,Remi,Olson,2023
+"Luminous Liquid",238,227,6,364,33,7491,7854,12012,South,Alabama,USA,"Vitamin Drinks",Remi,Olson,2023
+"Citrus Sizzle",368,267,39,457,74,19758,27232,33818,West,"New Mexico",USA,"Vitamin Drinks",Remi,Olson,2023
+"Blissful Bubbles",342,479,40,355,61,29219,20862,21655,West,Colorado,USA,Smoothies,Remi,Olson,2023
+"Blissful Bubbles",342,479,40,355,75,35925,25650,26625,West,Montana,USA,Smoothies,Remi,Olson,2023
+"Citrus Sizzle",368,267,39,457,65,17355,23920,29705,South,Arkansas,USA,"Vitamin Drinks",Remi,Olson,2023
+"Sparkle Splash",267,492,111,311,94,46248,25098,29234,Northeast,Connecticut,USA,"Soft Drinks",Buford,Jackson,2023
+"Citrus Sizzle",368,267,39,457,84,22428,30912,38388,West,Hawaii,USA,"Vitamin Drinks",Remi,Olson,2023
+"Mystic Mist",419,379,129,870,5,1895,2095,4350,South,Georgia,USA,"Iced Teas",Remi,Olson,2023
+"Moonbeam Brew",394,361,124,655,78,28158,30732,51090,South,Delaware,USA,"Iced Teas",Remi,Olson,2023
+"Mystic Mist",419,379,129,870,68,25772,28492,59160,Northeast,"New Hampshire",USA,"Iced Teas",Remi,Olson,2023
+"Frosted Flare",286,407,16,559,59,24013,16874,32981,Midwest,Minnesota,USA,"Soft Drinks",Buford,Jackson,2023
+"Citrus Sizzle",368,267,39,457,17,4539,6256,7769,South,Arkansas,USA,"Vitamin Drinks",Remi,Olson,2023
+"Enchanted Euphoria",303,284,83,364,11,3124,3333,4004,South,Louisiana,USA,Mocktails,Buford,Jackson,2023
+"Blissful Bubbles",342,479,40,355,7,3353,2394,2485,South,Texas,USA,Smoothies,Remi,Olson,2023
+"Berry Blush",276,281,122,622,94,26414,25944,58468,Midwest,Minnesota,USA,"Vitamin Drinks",Remi,Olson,2023
+"Frosty Fizz",314,434,7,717,36,15624,11304,25812,Midwest,Missouri,USA,Juices,Rowan,Walsh,2023
+"Electric Elixir",406,374,120,367,59,22066,23954,21653,West,"New Mexico",USA,"Hot Beverages",Remi,Olson,2023
+"Electric Elixir",406,374,120,367,71,26554,28826,26057,Midwest,Wisconsin,USA,"Hot Beverages",Remi,Olson,2023
+"Moonbeam Brew",394,361,124,655,34,12274,13396,22270,South,Mississippi,USA,"Iced Teas",Remi,Olson,2023
+"Moonbeam Brew",394,361,124,655,31,11191,12214,20305,West,"New Mexico",USA,"Iced Teas",Remi,Olson,2023
+"Frosted Flare",286,407,16,559,53,21571,15158,29627,West,Wyoming,USA,"Soft Drinks",Buford,Jackson,2023
+"Dreamy Droplets",330,356,106,347,50,17800,16500,17350,West,California,USA,"Soft Drinks",Buford,Jackson,2023
+"Secret Synergy",312,479,40,523,68,32572,21216,35564,Midwest,Iowa,USA,Mocktails,Buford,Jackson,2023
+"Frosted Flare",286,407,16,559,9,3663,2574,5031,South,Oklahoma,USA,"Soft Drinks",Buford,Jackson,2023
+"Berry Blush",276,281,122,622,7,1967,1932,4354,Midwest,Illinois,USA,"Vitamin Drinks",Remi,Olson,2023
+"Frosty Fizz",314,434,7,717,93,40362,29202,66681,West,Alaska,USA,Juices,Rowan,Walsh,2023
+"Frosty Fizz",314,434,7,717,23,9982,7222,16491,South,Kentucky,USA,Juices,Rowan,Walsh,2023
+"Mystic Mist",419,379,129,870,82,31078,34358,71340,South,"North Carolina",USA,"Iced Teas",Remi,Olson,2023
+"Electric Elixir",406,374,120,367,72,26928,29232,26424,Northeast,Massachusetts,USA,"Hot Beverages",Remi,Olson,2023
+"Moonbeam Brew",394,361,124,655,77,27797,30338,50435,West,Colorado,USA,"Iced Teas",Remi,Olson,2023
+"Electric Elixir",406,374,120,367,99,37026,40194,36333,Northeast,"New Hampshire",USA,"Hot Beverages",Remi,Olson,2023
+"Moonbeam Brew",394,361,124,655,16,5776,6304,10480,Midwest,"South Dakota",USA,"Iced Teas",Remi,Olson,2023
+"Frosty Fizz",314,434,7,717,76,32984,23864,54492,West,Oregon,USA,Juices,Rowan,Walsh,2023
+"Sparkle Splash",267,492,111,311,24,11808,6408,7464,South,Virginia,USA,"Soft Drinks",Buford,Jackson,2023
+"Berry Blush",276,281,122,622,57,16017,15732,35454,Northeast,Massachusetts,USA,"Vitamin Drinks",Remi,Olson,2023
+"Frosty Fizz",314,434,7,717,67,29078,21038,48039,South,Tennessee,USA,Juices,Rowan,Walsh,2023
+"Frosted Flare",286,407,16,559,97,39479,27742,54223,Northeast,Connecticut,USA,"Soft Drinks",Buford,Jackson,2023
+"Citrus Sizzle",368,267,39,457,32,8544,11776,14624,Midwest,Indiana,USA,"Vitamin Drinks",Remi,Olson,2023
+"Secret Synergy",312,479,40,523,1,479,312,523,South,Virginia,USA,Mocktails,Buford,Jackson,2023
+"Frosty Fizz",314,434,7,717,14,6076,4396,10038,West,Arizona,USA,Juices,Rowan,Walsh,2023
+"Secret Synergy",312,479,40,523,21,10059,6552,10983,West,Oregon,USA,Mocktails,Buford,Jackson,2023
+"Dreamy Droplets",330,356,106,347,55,19580,18150,19085,Midwest,"South Dakota",USA,"Soft Drinks",Buford,Jackson,2023
+"Secret Synergy",312,479,40,523,53,25387,16536,27719,South,Florida,USA,Mocktails,Buford,Jackson,2023
+"Frosted Flare",286,407,16,559,91,37037,26026,50869,South,Delaware,USA,"Soft Drinks",Buford,Jackson,2023
+"Blissful Bubbles",342,479,40,355,99,47421,33858,35145,South,Florida,USA,Smoothies,Remi,Olson,2023
+"Frosted Flare",286,407,16,559,19,7733,5434,10621,South,Kentucky,USA,"Soft Drinks",Buford,Jackson,2023
+"Luminous Liquid",238,227,6,364,61,13847,14518,22204,Midwest,Michigan,USA,"Vitamin Drinks",Remi,Olson,2023
+"Dreamy Droplets",330,356,106,347,94,33464,31020,32618,South,Maryland,USA,"Soft Drinks",Buford,Jackson,2023
+"Sparkle Splash",267,492,111,311,80,39360,21360,24880,Northeast,Massachusetts,USA,"Soft Drinks",Buford,Jackson,2023
+"Citrus Sizzle",368,267,39,457,78,20826,28704,35646,South,"South Carolina",USA,"Vitamin Drinks",Remi,Olson,2023
+"Enchanted Euphoria",303,284,83,364,70,19880,21210,25480,Midwest,Nebraska,USA,Mocktails,Buford,Jackson,2023
+"Moonbeam Brew",394,361,124,655,19,6859,7486,12445,West,California,USA,"Iced Teas",Remi,Olson,2023
+"Mystic Mist",419,379,129,870,70,26530,29330,60900,Northeast,"Rhode Island",USA,"Iced Teas",Remi,Olson,2023
+"Dreamy Droplets",330,356,106,347,46,16376,15180,15962,West,Oregon,USA,"Soft Drinks",Buford,Jackson,2023
+"Enchanted Euphoria",303,284,83,364,19,5396,5757,6916,South,Maryland,USA,Mocktails,Buford,Jackson,2023
+"Sparkle Splash",267,492,111,311,64,31488,17088,19904,Midwest,Wisconsin,USA,"Soft Drinks",Buford,Jackson,2023
+"Frosted Flare",286,407,16,559,48,19536,13728,26832,South,"South Carolina",USA,"Soft Drinks",Buford,Jackson,2023
+"Moonbeam Brew",394,361,124,655,81,29241,31914,53055,Midwest,"North Dakota",USA,"Iced Teas",Remi,Olson,2023
+"Moonbeam Brew",394,361,124,655,3,1083,1182,1965,Midwest,Iowa,USA,"Iced Teas",Remi,Olson,2023
+"Electric Elixir",406,374,120,367,14,5236,5684,5138,Midwest,Nebraska,USA,"Hot Beverages",Remi,Olson,2023
+"Mystic Mist",419,379,129,870,30,11370,12570,26100,West,Idaho,USA,"Iced Teas",Remi,Olson,2023
+"Moonbeam Brew",394,361,124,655,59,21299,23246,38645,West,Arizona,USA,"Iced Teas",Remi,Olson,2023
